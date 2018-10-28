@@ -14,4 +14,5 @@ Testsites to make shure its really disabled:
 https://test.webrtc.org/
 https://ip.voidsec.com/
 https://webtorrent.io/
+https://webrtc.github.io/samples/
 ```
