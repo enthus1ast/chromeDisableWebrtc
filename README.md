@@ -9,7 +9,7 @@ This will eventually breaks sites useing WebRTC.
 3. select the repo
 
 # Test
-Testsites to make shure its really disabled:
+Testsites to make sure its really disabled:
 ```
 https://test.webrtc.org/
 https://ip.voidsec.com/
